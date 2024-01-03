@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning: **HTMX**
 - 👯 I’m looking to collaborate on: **new projects in the near future, either for hire or freelance!**
 - 🤔 I’m looking for: **open source alternatives** for anything and everything.
-- ⚡ Fun fact: **I've had a passion for computers since my first (Windows 98) PC at age 4.**
+- ⚡ Fun fact: **Computers have caught my interest since my first (Windows 98) PC at age 4.**
 
 ---
 
