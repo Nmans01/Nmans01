@@ -2,11 +2,11 @@
 
 ---
 
-- 🔭 I’m currently working on: **Rentchexx, an all-in-one renting solution**
-- 🌱 I’m currently learning: **HTMX**
+- 🔭 I’m currently working on: **Rentchexx, an all-in-one renting solution web app**.
+- 🌱 I’m currently learning: **HTMX**.
 - 👯 I’m looking to collaborate on: **new projects in the near future, either for hire or freelance!**
 - 🤔 I’m looking for: **open source alternatives** for anything and everything.
-- ⚡ Fun fact: **Computers have caught my interest since my first (Windows 98) PC at age 4.**
+- ⚡ Fun fact: **Computers have caught my interest since my first (Windows 98) PC at age 4**.
 
 ---
 
