@@ -32,7 +32,7 @@
 -->
 ---
 
-#### I went to college. What did it teach me?
+#### I graduated college in 2023. What did it teach me?
 - OOP with Java
 - Computer Networking
 - System Design, Circuit Logic, and basics of Assembly
