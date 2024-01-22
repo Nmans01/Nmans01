@@ -37,5 +37,5 @@
 - Web Basics - HTML, JS, and CSS
 - "REST" Server basics with PHP
 - Data Structures & Algorithms
-- Graphic Design with Photoshop, Illustrator, and InDesign
+- Graphic Design with Adobe Suite
 - Calculus, Probability Theory, Proofs, Linear Algebra, Abstract Algebra
