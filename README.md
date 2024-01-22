@@ -1,8 +1,9 @@
 ### Hi there, Nate here! 👋
 
 ---
-- I’m currently working on: **Rentchexx, an all-in-one renting solution web app**.
-- I’m currently learning: **HTMX**.
+- I started as a solo fullstack developer in 2023.
+- I’m currently working on **Rentchexx, an all-in-one renting solution web app**.
+- I’m currently learning **HTMX**.
 ---
 
 #### In my toolbelt:
