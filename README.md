@@ -8,25 +8,34 @@
 
 #### In my toolbelt:
 
-|  |   |  |
-| - | - | - |
-| <ul><li>Typescript</li><li>~~Node~~ Bun</li><li>Elysia</li><li>Prisma</li></ul> | <ul><li>Tailwind</li><li>SolidJS</li><li>HTMX</li><li>_hyperscript</li></ul> | <ul><li>Git</li><li>LibSQL</li><li>Postrgres</li><li>Figma</li></ul> |
-<!--
-- Typescript
-- Bun (RIP Node)
-- Elysia
-- Prisma
-- Tailwind
-- SolidJS
-- HTMX
-- _hyperscript
-- Git
-- LibSQL
-- Postrgres
-- Figma
-- Photopea
--->
----
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>Typescript</li>
+        <li><s>Node</s> Bun</li>
+        <li>Elysia</li>
+        <li>Prisma</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Tailwind</li>
+        <li>SolidJS</li>
+        <li>HTMX</li>
+        <li>_hyperscript</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>Git</li>
+        <li>LibSQL</li>
+        <li>Postrgres</li>
+        <li>Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 #### I graduated college in 2023. What did it teach me?
 - OOP with Java
