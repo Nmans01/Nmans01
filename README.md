@@ -2,7 +2,7 @@
 
 ---
 - I started as a solo fullstack developer in 2023.
-- I’m currently working on **Rentchexx, an all-in-one rental property management solution in the form of a web app**.
+- I’m currently working on **KtemaLife, an all-in-one rental property management solution in the form of a web app**.
 - Additionally, I’m currently learning **Astro**.
 ---
 
