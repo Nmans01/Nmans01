@@ -3,7 +3,6 @@
 ---
 - I started as a solo fullstack developer in 2023.
 - I’m currently working on **KtemaLife, an all-in-one rental property management solution in the form of a web app**.
-- Additionally, I’m currently learning **Astro**.
 ---
 
 #### In my toolbelt:
@@ -36,15 +35,3 @@
     </td>
   </tr>
 </table>
-
-#### I graduated college in 2023. What did it teach me?
-- OOP with Java
-- Computer Networking
-- System Design, Circuit Logic, and basics of Assembly
-- Database Systems with MySQL
-- Data Science basics with Python
-- Web Basics - HTML, JS, and CSS
-- "REST" Server basics with PHP
-- Data Structures & Algorithms
-- Graphic Design with Adobe Suite
-- Calculus, Probability Theory, Proofs, Linear Algebra, Abstract Algebra
