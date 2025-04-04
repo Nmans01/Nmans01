@@ -12,7 +12,7 @@
     <td>
       <ul>
         <li>Typescript</li>
-        <li><s>Node</s> Bun</li>
+        <li>Node / Bun</li>
         <li>Elysia</li>
         <li>Prisma</li>
       </ul>
