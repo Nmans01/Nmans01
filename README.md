@@ -1,4 +1,4 @@
-### Hi there, I'm Nate! 👋
+### Hi, I'm Nate! 👋
 
 ---
 - I started as a solo fullstack developer in 2023.
