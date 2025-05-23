@@ -1,8 +1,7 @@
 ### Hi, I'm Nate! 👋
 
----
-- I started as a solo fullstack developer in 2023.
-- I’m currently working on **KtemaLife, an all-in-one rental property management solution in the form of a web app**.
+I am a solo fullstack developer with two years of experience.
+I’m currently working on **KtemaLife, an all-in-one rental property management solution in the form of a web app**.
 ---
 
 #### In my toolbelt:
