@@ -1,9 +1,12 @@
 ### Hi, I'm Nate! 👋
 
+<p>  
 I am a solo fullstack developer with two years of experience.
-I’m currently working on **KtemaLife, an all-in-one rental property management solution in the form of a web app**.
----
+<br/>
+I’m currently working on <b>KtemaLife</b>, a web app and all-in-one rental property management solution.
+</p>
 
+---
 #### In my toolbelt:
 
 <table>
