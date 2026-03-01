@@ -1,7 +1,7 @@
 ### Hi, I'm Nate! 👋
 
 <p>  
-I am a solo fullstack developer with three years of experience.
+I'm a fullstack developer with three years of experience.
 <br/>
 </p>
 
