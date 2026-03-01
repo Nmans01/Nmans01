@@ -21,14 +21,13 @@ I am a solo fullstack developer with three years of experience.
     <td>
       <ul>
         <li>Tailwind</li>
-        <li>SolidJS</li>
+        <li>SolidJS / ReactJS</li>
         <li>HTMX</li>
         <li>_hyperscript</li>
       </ul>
     </td>
     <td>
       <ul>
-        <li>Git</li>
         <li>LibSQL</li>
         <li>Postrgres</li>
         <li>Figma</li>
