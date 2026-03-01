@@ -1,9 +1,8 @@
 ### Hi, I'm Nate! 👋
 
 <p>  
-I am a solo fullstack developer with two years of experience.
+I am a solo fullstack developer with three years of experience.
 <br/>
-I’m currently working on <b>KtemaLife</b>, a web app and all-in-one rental property management solution.
 </p>
 
 ---
